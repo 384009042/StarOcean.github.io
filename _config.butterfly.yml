@@ -512,7 +512,7 @@ tag_ui: # 留空或 index
 # Website Background (設置網站背景)
 # can set it to color or image (可設置圖片 或者 顔色)
 # The formal of image: url(http://xxxxxx.com/xxx.jpg)
-background:
+background: url(https://xingqiu-tuchuang-1256524210.cos.ap-shanghai.myqcloud.com/839/4.jpg)
 
 # Footer Background
 footer_bg: false
@@ -859,6 +859,8 @@ css_prefix: true
 inject:
   head:
     # - <link rel="stylesheet" href="/xxx.css">
+    # 自定义css
+    - <link rel="stylesheet" href="/css/custom.css" media="defer" onload="this.media='all'">
   bottom:
     # - <script src="xxxx"></script>
     # aplayer音乐

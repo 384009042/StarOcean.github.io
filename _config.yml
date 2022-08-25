@@ -13,7 +13,7 @@ timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url:  http://stardustsea.gitee.io/hexo-butterfly
 permalink: posts/:abbrlink.html
 permalink_defaults:
 pretty_urls:
@@ -106,7 +106,7 @@ deploy:
     repo: git@gitee.com:stardustsea/hexo-butterfly.git
     branch: master
 #  - type: baidu_url_submitter # 这是新加的百度主动推送
-  
+
 # 文章链接转数字或字母：https://github.com/rozbo/hexo-abbrlink
 abbrlink:
   alg: crc32      #support crc16(default) and crc32
@@ -118,7 +118,7 @@ abbrlink:
 #  field: post
 #  content: true
 #  template: ./search.xml
-  
+
 # Live2D
 ## https://github.com/EYHN/hexo-helper-live2d
 live2d:
