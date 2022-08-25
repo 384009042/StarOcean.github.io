@@ -15,3 +15,5 @@ type:
 安知鱼博客 https://anzhiy.cn/ 
 
 akilar博客 https://akilar.top/
+
+{% tip info %}info{% endtip %}
