@@ -1,0 +1,8 @@
+http://stardustsea.gitee.io/hexo-butterfly/manifest.json
+http://stardustsea.gitee.io/hexo-butterfly/link/index.html
+http://stardustsea.gitee.io/hexo-butterfly/tags/index.html
+http://stardustsea.gitee.io/hexo-butterfly/posts/afcbc60d.html
+http://stardustsea.gitee.io/hexo-butterfly/categories/index.html
+http://stardustsea.gitee.io/hexo-butterfly/Gallery/wallpaper/index.html
+http://stardustsea.gitee.io/hexo-butterfly/Gallery/index.html
+http://stardustsea.gitee.io/hexo-butterfly
